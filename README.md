@@ -1,4 +1,3 @@
 # Tropix
-README
 
-hello world
+Hello World!
